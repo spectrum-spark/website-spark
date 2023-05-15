@@ -1,9 +1,8 @@
 project:
   type: website
-  output-dir: ../_site/spark
+  output-dir: _site
   pre-render:
-    - cp -a ../news/. ./news/
-    - quarto run ../update_data.R
+    - quarto run update_data.R
 
 website:
   title: "Strengthening Preparedness in the Asia-Pacific Region through Knowledge"

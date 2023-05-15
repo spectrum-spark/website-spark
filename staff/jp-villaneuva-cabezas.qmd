@@ -2,7 +2,7 @@
 params:
     staff_id: "jp-villanueva-cabezas"
     staff_list: "`r source('../load_data.R')`"
-title: "Dr JP Villaneuva Cabezas"
+title: "Dr JP Villanueva Cabezas"
 image: "../images/staff/jp-villanueva-cabezas.jpg"
 format:
   html:

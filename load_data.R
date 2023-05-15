@@ -4,7 +4,24 @@ library(googlesheets4)
 library(tidyr)
 library(readr)
 
-staff_csv <- read_csv(here::here("spark/staff_list.csv"))
+staff_csv <- read_csv(here::here("staff_list.csv"),
+    col_types = cols(
+        id = col_character(),
+        name = col_character(),
+        description = col_character(),
+        external_link = col_character(),
+        internal_link = col_logical(),
+        staff_type = col_character(),
+        role_in_ss = col_character(),
+        role_in_org = col_character(),
+        location = col_character(),
+        organisation = col_character(),
+        email = col_character(),
+        bio = col_character(),
+        external_link2 = col_character(),
+        consortia = col_character()
+    )
+)
 
 staff_list <- lapply(1:nrow(staff_csv), function(i) {
     member <- staff_member(
@@ -32,7 +49,16 @@ staff_list <- lapply(1:nrow(staff_csv), function(i) {
 })
 names(staff_list) <- staff_csv[, "id"] %>% pull()
 
-project_csv <- read_csv(here::here("spark/project_list.csv"))
+project_csv <- read_csv(here::here("project_list.csv"),
+    col_types = cols(
+        project_name = col_character(),
+        related_staff = col_character(),
+        start_date = col_datetime(format = ""),
+        end_date = col_datetime(format = ""),
+        description = col_character(),
+        consortia = col_character()
+    )
+)
 
 project_list <- lapply(1:nrow(project_csv), function(i) {
     proj <- project(
@@ -51,7 +77,16 @@ project_list <- lapply(1:nrow(project_csv), function(i) {
 
 
 
-publication_csv <- read_csv(here::here("spark/publication_list.csv"))
+publication_csv <- read_csv(here::here("publication_list.csv"),
+    col_types = cols(
+        title = col_character(),
+        related_staff = col_character(),
+        link = col_character(),
+        consortia = col_character(),
+        date = col_datetime(format = ""),
+        citation = col_character()
+    )
+)
 
 publication_list <- lapply(1:nrow(publication_csv), function(i) {
     publication(
