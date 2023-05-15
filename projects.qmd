@@ -1,0 +1,49 @@
+---
+title: "Projects"
+toc: true
+format:
+    html:
+        page-layout: full
+---
+
+SPARK has a number of consortia-associated projects, details of which are here.
+
+```{r setup}
+#| echo: false
+#| warning: false
+#| message: false
+#| include: false
+knitr::opts_chunk$set(echo = FALSE)
+source("load_data.R")
+
+grab_staff_names <- function(ids) {
+    staff_csv |>
+    filter(id %in% ids) |>
+    select(name) |>
+    pull()
+}
+
+project_page_md <- function(project) {
+    cat(
+        glue::glue("## {project[['name']]}"),
+        "\n\n",
+        glue::glue("_{format(project[['start_date']] |> pull(), '%B %Y')}-{format(project[['end_date']] |> pull(), '%B %Y')}_"),
+        "\n\n",
+        project[["description"]] |> pull(),
+        "\n\n",
+        glue::glue("Related staff: {paste0(grab_staff_names(project[['related_staff']]), collapse=', ')}"),
+        "\n\n",
+        sep = ""
+    )
+}
+```
+
+```{r project-outputs}
+#| echo: false
+#| warning: false
+#| results: asis
+
+for (project in project_list) {
+    project_page_md(project)
+}
+```

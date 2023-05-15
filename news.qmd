@@ -1,0 +1,9 @@
+---
+title: "News and Events"
+listing:
+    contents: news
+    type: grid
+    sort: "date"
+    categories: true
+---
+
