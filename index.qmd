@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE, cache = FALSE)
 
 ## What is SPARK?
 
-SPARK is an international consortium aimed at strengthening preparedness in the Asia-Pacific region through knowledge, under the ASEAN-Pacific Infectious Disease and Response program (APIDDaR). The consortium includes collaborations from globally recognized public health institutions in Australia and the Asia Pacific region.  The program areas focus on public health workforce development and strengthening outbreak detection and management systems and processes, to ultimately increase regional capacity using quantitative methods and modelling.
+SPARK (**S**trengthening **P**reparedness in the **A**sia-Pacific **R**egion through **K**nowledge) is an international consortium aimed at strengthening preparedness in the Asia-Pacific region through knowledge, under the ASEAN-Pacific Infectious Disease and Response program (APIDDaR). The consortium includes collaborations from globally recognized public health institutions in Australia and the Asia Pacific region.  The program areas focus on public health workforce development and strengthening outbreak detection and management systems and processes, to ultimately increase regional capacity using quantitative methods and modelling.
 
 Based at the Peter Doherty Institute for Infection and Immunity at the University of Melbourne (UoM) in Melbourne, Australia, the SPARK consortium includes:
 

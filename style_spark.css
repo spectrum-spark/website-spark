@@ -174,3 +174,7 @@ a {
 .navbar-title {
   display: none !important;
 }
+
+.nav-footer-center {
+  display: none !important;
+}
