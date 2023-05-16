@@ -170,3 +170,7 @@ a {
   text-decoration-style: dotted;
   color: inherit;
 }
+
+.navbar-title {
+  display: none !important;
+}
