@@ -40,6 +40,8 @@ website:
       SPARK is funded by the Australian Department of Foreign Affairs and Trade (DFAT)
     background: "#9f1f63"
     foreground: "#FFFFFF"
+  google-analytics: "G-PPC4V4NNKH"
+  cookie-consent: true
         
         
 
