@@ -1,0 +1,21 @@
+---
+title: "SPECTRUM-SPARK EMCR Meeting - 8 June 2023"
+description: "The first EMCR training session - Likelihoods and Estimation"
+author: "Michael Lydeamore"
+date: 2023-05-17
+categories:
+    - EMCR Network
+    - Networking
+---
+
+On May 15, the SPECTRUM & SPARK EMCR Network will meet for the first training session of the year, on likelihoods, maximum likelihood estimation and a bit more. Anyone who identifies themselves as an EMCR in the network is welcome to attend. If you are not on the list and want to be, please email <spectrum-spark@unimelb.edu.au>.
+
+## The session
+
+This month, Dr Eamon Conway will lead the network through a practical application of Maximum Likelihood Estimation, including when it's useful, when it's not, and how to implement it for some infectious diseases models.
+
+More skills is more good, so please come along to see how it's done from an expert, and ask questions to improve your understanding.
+
+## Feedback
+
+We'd love to hear what _you_ want out of these sessions. If you have any ideas, or would like to sign up for a WIP talk, or to run a training session, please let the EMCR Chair (Michael Lydeamore) know by emailing in <spectrum-spark@unimelb.edu.au>.
