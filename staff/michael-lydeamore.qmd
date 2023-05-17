@@ -1,6 +1,6 @@
 ---
 title: "Dr Michael Lydeamore"
-image: "../images/staff/michael-lydeamore.png"
+image: "images/staff/michael-lydeamore.png"
 format:
   html:
     page-layout: full
