@@ -1,0 +1,27 @@
+---
+title: "SPECTRUM and SPARK Annual Meeting 2023"
+description: "The week-long course introducing infectious diseases modelling was a great success."
+author: "Johanna Monk"
+date: 2023-02-17
+image: group_shot.jpeg
+categories:
+    - Conferences
+    - Networking
+---
+
+We held an in-person Annual Workshop for the SPARK and SPECTRUM consortia on 14-16 February at the Cape Schanck RACV Resort in the Mornington Peninsula near Melbourne.  Due to pandemic restrictions and activities, this was the first in person meeting of consortia members and we were pleased to welcome 90 participants.
+
+![](group_shot.jpeg){fig-alt="Photograph showing all the members of the consortium who attended the annual meeting at Cape Shanck. They are standing outside in bright sunlight."}
+
+We had a busy 3 days with plenty of talks and great question time.  Consortia members and guests came from around Australia, Indonesia, Thailand, Malaysia and Vietnam.  They presented 30 presentations with great engagement and discussion during question time and breaks. 
+
+We also invited 4 keynote speakers from around the globe:
+
+* Dr Kylie Ainslie, Dutch National Institute for Public Health and the Environment (RIVM), The Netherlands
+* Prof Adam Kucharski, London School of Hygiene and Tropical Medicine, UK
+* Prof. Michael Plank, University of Canterbury, New Zealand
+* Rachael Pung, Ministry of Health, Singapore
+ 
+In addition to presentations the meeting included a Welcome to Country smoking ceremony, a poster session, a panel discussion on “Effective engagement with policy-makers and the public”, a cultural experience from our Thai guests, relaxational activities, a fun banquet dinner and prizes, and a fascinating optional tour of the history of the Point Nepean Quarantine Station.
+
+We thank the organising committee of Laura Bannerman, Johanna Monk, Nefel Telliglu, Rob Moss, Cameron Zachreson, Roben Delos Reyes, Pratyush Kollepara and Thao P. Le (TK).  We are also most grateful to everyone who presented, chaired, participated, performed at the dinner (Laura Madonna Murray, Punya, and the band -the Contagions), and helped with logistics.  It was a memorable event of great science, fun and networking.
