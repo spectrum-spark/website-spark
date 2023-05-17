@@ -3,6 +3,7 @@ title: "People"
 format:
     html:
         anchor-sections: false
+        page-layout: full
 ---
 
 ```{css, echo=FALSE}
