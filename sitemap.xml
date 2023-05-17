@@ -2,154 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/news.html</loc>
-    <lastmod>2023-05-15T06:38:37.039Z</lastmod>
+    <lastmod>2023-05-17T01:43:02.184Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/projects.html</loc>
-    <lastmod>2023-05-15T06:38:38.508Z</lastmod>
+    <lastmod>2023-05-17T01:43:03.891Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/index.html</loc>
-    <lastmod>2023-05-15T06:38:39.433Z</lastmod>
+    <lastmod>2023-05-17T01:43:04.850Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/readme.html</loc>
-    <lastmod>2023-05-15T06:38:39.748Z</lastmod>
+    <lastmod>2023-05-17T01:43:05.177Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/publications.html</loc>
-    <lastmod>2023-05-15T06:38:41.286Z</lastmod>
+    <lastmod>2023-05-17T01:43:06.730Z</lastmod>
   </url>
   <url>
-    <loc>https://spectrum-spark.github.io/website-spark/news/20230502_test_post/test_post.html</loc>
-    <lastmod>2023-05-15T06:38:41.583Z</lastmod>
+    <loc>https://spectrum-spark.github.io/website-spark/news/20230313_spark_id_course/20230313_spark_id_course.html</loc>
+    <lastmod>2023-05-17T01:43:07.092Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spectrum-spark.github.io/website-spark/news/20230517_emcr_meeting_june.html</loc>
+    <lastmod>2023-05-17T01:43:07.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spectrum-spark.github.io/website-spark/news/20230501_emcr_meeting_may.html</loc>
+    <lastmod>2023-05-17T01:43:07.724Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/people.html</loc>
-    <lastmod>2023-05-15T06:38:43.008Z</lastmod>
+    <lastmod>2023-05-17T01:43:09.250Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/jeremiah-calderon.html</loc>
-    <lastmod>2023-05-15T06:38:44.325Z</lastmod>
+    <lastmod>2023-05-17T01:43:10.646Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/robert-moss.html</loc>
-    <lastmod>2023-05-15T06:38:45.758Z</lastmod>
+    <lastmod>2023-05-17T01:43:12.308Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/james-ong.html</loc>
-    <lastmod>2023-05-15T06:38:47.088Z</lastmod>
+    <lastmod>2023-05-17T01:43:13.657Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/wirichada-pan-ngum.html</loc>
-    <lastmod>2023-05-15T06:38:48.491Z</lastmod>
+    <lastmod>2023-05-17T01:43:15.152Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/michael-lydeamore.html</loc>
-    <lastmod>2023-05-15T06:38:49.862Z</lastmod>
+    <lastmod>2023-05-17T01:43:16.717Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/angus-campbell.html</loc>
-    <lastmod>2023-05-15T06:38:51.220Z</lastmod>
+    <lastmod>2023-05-17T01:43:18.094Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/iadine-chades.html</loc>
-    <lastmod>2023-05-15T06:38:52.583Z</lastmod>
+    <lastmod>2023-05-17T01:43:19.573Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/kathryn-glass.html</loc>
-    <lastmod>2023-05-15T06:38:53.930Z</lastmod>
+    <lastmod>2023-05-17T01:43:20.920Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/freya-shearer.html</loc>
-    <lastmod>2023-05-15T06:38:55.376Z</lastmod>
+    <lastmod>2023-05-17T01:43:22.416Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/jp-villaneuva-cabezas.html</loc>
-    <lastmod>2023-05-15T06:38:56.719Z</lastmod>
+    <lastmod>2023-05-17T01:43:23.746Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/chris-baker.html</loc>
-    <lastmod>2023-05-15T06:38:58.099Z</lastmod>
+    <lastmod>2023-05-17T01:43:25.113Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/patricia-campbell.html</loc>
-    <lastmod>2023-05-15T06:38:59.525Z</lastmod>
+    <lastmod>2023-05-17T01:43:26.507Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/angeline-ferdinand.html</loc>
-    <lastmod>2023-05-15T06:39:00.877Z</lastmod>
+    <lastmod>2023-05-17T01:43:27.787Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/rahmat-sagara.html</loc>
-    <lastmod>2023-05-15T06:39:02.240Z</lastmod>
+    <lastmod>2023-05-17T01:43:29.168Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/camelia-walker.html</loc>
-    <lastmod>2023-05-15T06:39:03.635Z</lastmod>
+    <lastmod>2023-05-17T01:43:30.540Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/ivo-mueller.html</loc>
-    <lastmod>2023-05-15T06:39:05.008Z</lastmod>
+    <lastmod>2023-05-17T01:43:31.888Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/jodie-mcvernon.html</loc>
-    <lastmod>2023-05-15T06:39:06.493Z</lastmod>
+    <lastmod>2023-05-17T01:43:33.496Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/raja-jurdak.html</loc>
-    <lastmod>2023-05-15T06:39:07.848Z</lastmod>
+    <lastmod>2023-05-17T01:43:34.956Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/sonja-firth.html</loc>
-    <lastmod>2023-05-15T06:39:09.180Z</lastmod>
+    <lastmod>2023-05-17T01:43:36.269Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/angela-devine.html</loc>
-    <lastmod>2023-05-15T06:39:10.505Z</lastmod>
+    <lastmod>2023-05-17T01:43:37.614Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/chris-painter.html</loc>
-    <lastmod>2023-05-15T06:39:11.913Z</lastmod>
+    <lastmod>2023-05-17T01:43:39.007Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/barbara-mcpake.html</loc>
-    <lastmod>2023-05-15T06:39:13.274Z</lastmod>
+    <lastmod>2023-05-17T01:43:40.729Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/david-price.html</loc>
-    <lastmod>2023-05-15T06:39:14.703Z</lastmod>
+    <lastmod>2023-05-17T01:43:42.526Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/dean-paini.html</loc>
-    <lastmod>2023-05-15T06:39:16.053Z</lastmod>
+    <lastmod>2023-05-17T01:43:43.901Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/eamon-conway.html</loc>
-    <lastmod>2023-05-15T06:39:17.437Z</lastmod>
+    <lastmod>2023-05-17T01:43:45.630Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/johanna-monk.html</loc>
-    <lastmod>2023-05-15T06:39:18.800Z</lastmod>
+    <lastmod>2023-05-17T01:43:47.353Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/logan-wu.html</loc>
-    <lastmod>2023-05-15T06:39:20.162Z</lastmod>
+    <lastmod>2023-05-17T01:43:50.073Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/kamran-najeebullah.html</loc>
-    <lastmod>2023-05-15T06:39:21.523Z</lastmod>
+    <lastmod>2023-05-17T01:43:51.791Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/justin-mckinley.html</loc>
-    <lastmod>2023-05-15T06:39:22.874Z</lastmod>
+    <lastmod>2023-05-17T01:43:53.321Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/laura-bannerman.html</loc>
-    <lastmod>2023-05-15T06:39:24.256Z</lastmod>
+    <lastmod>2023-05-17T01:43:55.068Z</lastmod>
   </url>
   <url>
     <loc>https://spectrum-spark.github.io/website-spark/staff/iqbal-elyazar.html</loc>
-    <lastmod>2023-05-15T06:39:25.667Z</lastmod>
+    <lastmod>2023-05-17T01:43:57.061Z</lastmod>
   </url>
 </urlset>
