@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
   pre-render:
     - quarto run update_data.R
 
