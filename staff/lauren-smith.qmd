@@ -3,7 +3,7 @@ params:
     staff_id: "lauren-smith"
     staff_list: "`r source('../load_data.R')`"
 title: "Dr Lauren Smith"
-image: "../images/staff/lauren-smith.jpg"
+image: "../images/staff/lauren-smith.png"
 format:
   html:
     page-layout: full
