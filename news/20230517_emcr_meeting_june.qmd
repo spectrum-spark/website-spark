@@ -1,5 +1,5 @@
 ---
-title: "SPECTRUM-SPARK EMCR Meeting - 8 June 2023"
+title: "SPECTRUM-SPARK EMCR Meeting - 15 June 2023"
 description: "The first EMCR training session - Likelihoods and Estimation"
 author: "Michael Lydeamore"
 date: 2023-05-17
@@ -9,7 +9,7 @@ categories:
     - Networking
 ---
 
-On May 15, the SPECTRUM & SPARK EMCR Network will meet for the first training session of the year, on likelihoods, maximum likelihood estimation and a bit more. Anyone who identifies themselves as an EMCR in the network is welcome to attend. If you are not on the list and want to be, please email <spectrum-spark@unimelb.edu.au>.
+On June 15, the SPECTRUM & SPARK EMCR Network will meet for the first training session of the year, on likelihoods, maximum likelihood estimation and a bit more. Anyone who identifies themselves as an EMCR in the network is welcome to attend. If you are not on the list and want to be, please email <spectrum-spark@unimelb.edu.au>.
 
 ## The session
 
