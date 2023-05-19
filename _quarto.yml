@@ -25,9 +25,9 @@ website:
       - text: "Other Consortia"
         menu:
           - text: "Home"
-            href: ../index.html
+            href: https://spectrum-spark.github.io/website-impakt/
           - text: "SPECTRUM"
-            href: ../spectrum/index.html
+            href: https://www.spectrum.edu.au/
           - text: "PRISM<sup>2</sup>"
             href: https://www.prism.edu.au
     foreground: "#9f1f63"
