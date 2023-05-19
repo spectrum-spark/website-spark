@@ -1,1 +1,1 @@
-Sitemap: https://spectrum-spark.github.io/website-spark/sitemap.xml
+Sitemap: https://spark.edu.au/sitemap.xml
