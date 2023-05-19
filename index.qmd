@@ -21,13 +21,13 @@ SPARK (**S**trengthening **P**reparedness in the **A**sia-Pacific **R**egion thr
 
 Based at the Peter Doherty Institute for Infection and Immunity at the University of Melbourne (UoM) in Melbourne, Australia, the SPARK consortium includes:
 
-Nossal Institute for Global Health
-Walter and Eliza Hall Institute (WEHI)
-Australian National University (ANU)
-CSIRO (Commonwealth Scientific and Industrial Research Organisations)
-Mahidol University, Thailand
-Pasteur Institute, Ho Chi Minh City, Vietnam
-The Eijkman-Oxford Clinical Research Unit, Indonesia
+* Nossal Institute for Global Health
+* Walter and Eliza Hall Institute (WEHI)
+* Australian National University (ANU)
+* CSIRO (Commonwealth Scientific and Industrial Research Organisations)
+* Mahidol University, Thailand
+* Pasteur Institute, Ho Chi Minh City, Vietnam
+* Oxford University Clinical Research Unit (OUCRU), Indonesia
 
 SPARK is an acronym for Strengthening Preparedness in the Asia-Pacific Region through Knowledge, and builds on the PRISM2 CRE.
 
