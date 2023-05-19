@@ -39,7 +39,7 @@ about:
 
 staff_member <- staff_list[[params$staff_id]]
 
-cat(staff_member[["bio"]]))
+cat(staff_member[["bio"]])
 
 ```
 
