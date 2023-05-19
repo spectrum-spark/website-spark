@@ -3,6 +3,7 @@ title: "SPECTRUM-SPARK EMCR Meeting - 8 June 2023"
 description: "The first EMCR training session - Likelihoods and Estimation"
 author: "Michael Lydeamore"
 date: 2023-05-17
+image: eamon_headshot.jpeg
 categories:
     - EMCR Network
     - Networking
