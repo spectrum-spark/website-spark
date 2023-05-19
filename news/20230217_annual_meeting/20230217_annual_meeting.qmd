@@ -1,6 +1,6 @@
 ---
 title: "SPECTRUM and SPARK Annual Meeting 2023"
-description: "The week-long course introducing infectious diseases modelling was a great success."
+description: "Consortia members and guests had a busy meeting of science, networking and fun."
 author: "Johanna Monk"
 date: 2023-02-17
 image: group_shot.jpeg
