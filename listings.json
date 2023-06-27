@@ -2,9 +2,11 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/20230627_health_security_workshop/20230529_health_security_workshop.html",
+      "/news/20230613_onehealth_economics/20230613_onehealth_economics.html",
       "/news/20230517_emcr_meeting_june.html",
       "/news/20230501_emcr_meeting_may.html",
-      "/news/20230313_spark_id_course/20230313_spark_id_course.html",
+      "/news/id_course/20230313_bali.html",
       "/news/20230217_annual_meeting/20230217_annual_meeting.html",
       "/news/20230213_annual_meeting_emcr/20230213_annual_meeting_emcr.html"
     ]
