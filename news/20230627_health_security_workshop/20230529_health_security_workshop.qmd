@@ -1,0 +1,45 @@
+---
+title: "SPARK Vietnam 'Health Security Leadership' Training of Trainers Workshop"
+description: "The week-long course in One Health developed a great understanding for those who use it."
+author: "Sonja Firth"
+date: 2023-06-27
+image: hs_participants.jpg
+categories:
+    - Training
+    - Capacity Building
+---
+
+<style>
+    .img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
+From 29th May-2nd June 2023, 33 participants from Vietnam’s lead universities, research institutions and government, specializing in One Health joined a ‘Health Security Leadership’ Training of Trainer workshop in Da Nang, Viet Nam. The purpose of the workshop was not only to develop a foundational course on health security that could be rolled out in the country, but also to create a One Health training team for Viet Nam, using the Vietnam One Health University Network (VOHUN) as a vehicle.
+
+One Health experts from the Nossal Institute for Global Health developed the training, with input from SPARK partner, Pasteur Institute Ho Chi Minh City and from VOHUN leaders. Associate Professor Dr Nguyen Vu Trung, Director of the Pasteur Institute, Ho Chi Minh City gave an opening address for the workshop, emphasizing the importance of health security in the country.  The sessions were facilitated by Max Barot, Anna Barrett and Sonja Firth from the Nossal Institute for Global Health, aided by Dr Pham Duc Phuc (VOHUN) and Dr Pham Duy Quang (Pasteur Institute, HCMC). Dr Do Hong Hien Thi from Viet Nam’s WHO Emergency response gave an invited lecture on ‘Health security in a national context’. 
+
+
+![](hs_participants.jpg){fig-alt="Photograph showing participants of the workshop in Vietnam. Participants are in three rows, with approximately 40 people in the photo."}
+
+The workshop covered specific health security concerns, such as human and animal health system preparedness, surveillance, risk assessment and outbreak response as well as cross-cutting themes of public health communication and community engagement for health security. The environment as an ecosystem connecting and reacting to changes in the animal and human health system – and the impact of this on health security – was also explored.  The focus on a One Health approach emphasised joint working and collaborations, which was also evident in the range of participants, with backgrounds in human health, animal health and the environment. The workshop prioritised interactive elements and social learning, with exercises designed to explore relationships and experiences across the different disciplines.  
+
+![](hs_learning_3.jpg)
+
+![](hs_learning_2.jpg)
+
+And it was not all work, as a welcome function and final workshop dinner, complete with karaoke, provided more relaxed opportunities for networking and relationship building. The backdrop of Da Nang beachfront was conducive to these festivities!
+
+::: {layout-ncol=2}
+
+![](hs_dinner_1.jpg)
+
+![](hs_dinner_2.jpg)
+
+:::
+
+A planning session at the end of the workshop drew a roadmap for the adaptation of the course and translation into Vietnamese. We look forward to seeing the course in its new format in the future in Vietnam! The workshop ended with a song, as befitting the Vietnam locale. 
+
+Thanks to [Laura Bannerman](http://www.spark.edu.au/staff/laura_bannerman.html), SPARK Program Coordinator and to the local organizing team from Pasteur Institute HCMC, Mr Le Duy Hoang Chuong, Ms Trần Thanh Dung and Ms Phạm Thị Thanh Ngân for all their hard work to make this workshop happen!

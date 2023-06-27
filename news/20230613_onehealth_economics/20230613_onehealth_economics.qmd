@@ -1,0 +1,46 @@
+---
+title: "SPARK funds first One Health Economics Course in collaboration with THOHUN"
+description: "A new topic to most, but an insightful week-long event"
+author: "Sonja Firth"
+date: 2023-06-13
+image: econ_participants.jpg
+categories:
+    - Training
+    - Capacity Building
+---
+
+<style>
+    .img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
+Experts from SPARK partners Nossal Institute for Global Health, University of Melbourne and Division of Social Administrative Pharmacy, Faculty of Pharmacy, Mahidol University, teamed up with the Thailand One Health University Network (THOHUN) for a three-day course on One Health Economics (11-13 June 2023).
+
+Forty participants across ten universities (Mahidol University, Khon Kaen University, Chiang Mai University, Thammasat University, Chulalongkorn University, Prince of Songkla University, Kasetsart University, Mae Fah Luang Univeristy, Maejo University and Burapha University) within the THOHUN network took part, as well as participants from Ministry of Agriculture and Cooperatives, Ministry of National Resource and Environment of Thailand and Bhutan. 
+
+![](econ_participants.jpg)
+
+This is the first time that such a course has delivered through this network. The One Health Economics course addressed a key gap in knowledge in the region, identified at a recent meeting of the Southeast Asia One Health University Network (SEAOHUN), with which THOHUN is affiliated.  The course was delivered by Dr Justin McKinley and Dr Max Barot from Nossal Institute for Global Health, together with the team from Mahidol University led by Dr. Arthorn Riewpaiboon. Participants learnt economic principles as well as how these apply to One Health, including One Health Economic Evaluation methods - Cost-Benefit Analysis, Cost-Utility Analysis, social returns on investment, amongst others.  They also had the opportunity to analyse and apply economic principles and tools to address local One Health issues. 
+
+![](econ_speaker1.jpg)
+
+Although a new topic to most, the participants found the content and delivery accessible and engaging and after the course, a large majority could see how to apply Health Economics principles in their work. From the same evaluation, all were glad they attended the course and would recommend it to others. More interactive sessions and scenarios and a greater emphasis on environmental health were suggested for future trainings.
+
+![](econ_speaker2.jpg)
+
+This course will in future be available on-line for others to benefit from the approach. We look forward to future collaborations amongst the group to forward this important component in One Health curriculum development.
+Many thanks to Assoc. Prof. Saengduen Moonsom and her team at THOHUN for coordinating and organizing this event.
+For more information on THOHUN and their activities visit  https://thohun.org/ 
+
+::: {layout-nrow=2}
+
+![](econ_speaker3.jpg)
+
+![](econ_speaker4.jpg)
+
+:::
+
+![](econ_speaker5.jpg)
