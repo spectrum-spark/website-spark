@@ -25,7 +25,7 @@ jobs:
           extra-packages: |
             any::curl
 
-      - name: Install R Dependencies
+      - name: Setup Renv
         uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 1
