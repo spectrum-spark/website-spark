@@ -2,7 +2,7 @@
 params:
     staff_id: "sreytouch-vong"
     staff_list: "`r source('../load_data.R')`"
-title: "STAFF_NAME"
+title: "Sreytouch Vong"
 image: "../images/staff/sreytouch-vong.jpg"
 format:
   html:
