@@ -204,7 +204,7 @@
       "RemoteRepo": "condensr",
       "RemoteUsername": "MikeLydeamore",
       "RemoteRef": "HEAD",
-      "RemoteSha": "da4fc5a2b49065fc8a7c128d7c73f72bb075dc65",
+      "RemoteSha": "2e937dbc0b89e3e13eb7b1170cd15f0223ed72d0",
       "Requirements": [
         "assertthat",
         "distill",
@@ -214,7 +214,7 @@
         "rmarkdown",
         "whisker"
       ],
-      "Hash": "cfb0d3d9883e0160ba3e7f501ccb7dfd"
+      "Hash": "8ecc8485d85502e010dd3b5ea7beea8a"
     },
     "cpp11": {
       "Package": "cpp11",
