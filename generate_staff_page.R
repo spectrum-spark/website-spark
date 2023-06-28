@@ -24,5 +24,6 @@ generate_staff_page <- function(staff_member, overwrite = FALSE) {
 source("load_data.R")
 
 for (staff_member in staff_list) {
-    generate_staff_page(staff_member)
+    if (staff_member$internal_link)
+        generate_staff_page(staff_member)
 }
