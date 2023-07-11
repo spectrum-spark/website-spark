@@ -20,6 +20,8 @@ website:
             href: publications.html
           - text: "Projects"
             href: projects.html
+          - text: "Introductory Resources"
+            href: introductory_resources.html
       - text: "News and Events"
         href: news.html
       - text: "Other Consortia"
