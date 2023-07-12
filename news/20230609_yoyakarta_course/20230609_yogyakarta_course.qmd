@@ -1,0 +1,32 @@
+---
+title: "SPARK infectious disease modelling short course in Yogyakarta"
+description: "We held our third successful modelling short course on 4-9 June."
+author: "Johanna Monk"
+date: 2023-06-09
+image: 2023_06_09_Facilitators.jpeg
+categories:
+    - Training
+    - Capacity Building
+---
+
+![](2023_06_09_Facilitators.jpeg)
+
+We were pleased to welcome 25 researchers, policy makers and statisticians from Indonesia, Vietnam and the Philippines to Yogyakarta in Indonesia. Participants gathered at Royal Malioboro Hotel for a week of mathematical modelling in infectious diseases.  Starting with an introduction to modelling, the facilitators took them through differential equations, designing and fitting a model, modelling interventions and building and applying vector-borne disease models. The facilitators from EOCRU Indonesia were supported by an Australian team of facilitators.
+
+<i>OUCRU Indonesian team:</i> Dr Iqbal Elyazar, Rahmat Sagara, Dr Jonathan Hasian Haposan, Karina Lestari, Dr Ihsan Fadilah, Kartika Sarawati and Sonia Akoit. 
+
+<i>SPARK Australian team:</i> Prof Emma McBryde, A/Prof Roslyn Hickson, Dr Lauren Smith, Dr Eamon Conway and Johanna Monk.
+
+![](20230608_SPARK_Ramayana_Ballet.jpg)
+
+A group dinner was held on Thursday evening at Abhayagiri Restaurant followed by a visit to Ramayana Ballet performed outdoors at the Prambanan Temple.  Traditional Indonesia dance, singing and a gamelan ensemble were used to tell the ancient story of Rama and Sita that included acrobatics, fireworks, and romance.  It was great to take time out to relax and enjoy some of the Yogyakarta culture during a busy week. 
+
+At the end of the week, Dr Iqbal Elyazar from OUCRU gave an invited presentation on developing the capacity of quantitative methods and modelling to support evidence based public health decision-making.  This was followed by a formal presentation of certificates of participation.
+
+![](20230609_Iqbal_presentation.jpeg)
+
+The interactive nature of the short course gave participants a chance to have a go at practical modellilng exercises.  They also enjoyed the networking opportunities at breaks.  On the final day they discussed what was learned and reflected on how it could be used.  Everyone had a wonderful time and took away new ideas and modelling skills to incorporate into their work.
+
+Many thanks to Laura Bannerman, Johanna Monk and Jonathan Hasian Haposan, the EOCRU Indonesia team who organised the short course. 
+
+![](20230609_Yogyakarta_certificates.jpg)
