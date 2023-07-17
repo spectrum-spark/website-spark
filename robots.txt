@@ -1,1 +1,1 @@
-Sitemap: https://spark.edu.au/sitemap.xml
+Sitemap: https://www.spark.edu.au/sitemap.xml
