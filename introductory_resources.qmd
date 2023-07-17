@@ -8,6 +8,12 @@ format:
 
 Infectious disease models can be useful to decision-makers in informing public health policy. Here are some excellent resources to help you learn more about infectious disease models.
 
+## Video: Explainer: What are infectious disease models?
+
+_This video gives an overview of infectious disease models and how they can be used to inform public health responses._
+
+{{< video https://www.youtube.com/watch?v=IUpsekOsIxQ >}}
+
 ## The Bjørnstad modelling series:  
 * Bjørnstad, O.N., Shea, K., Krzywinski, M., and Altman, N., 2020. Modeling infectious epidemics. <i>Nature Methods, 17</i>(5), pp.455-456. <https://doi.org/10.1038/s41592-020-0822-z>
 * Bjørnstad, O.N., Shea, K., Krzywinski, M. and Altman, N., 2020. The SEIRS model for infectious disease dynamics. <i>Nature Methods, 17</i>(6), pp.557-558. <https://doi.org/10.1038/s41592-020-0856-2> 
