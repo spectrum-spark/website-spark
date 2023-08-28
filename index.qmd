@@ -19,16 +19,16 @@ knitr::opts_chunk$set(echo = FALSE, cache = FALSE)
 
 SPARK (**S**trengthening **P**reparedness in the **A**sia-Pacific **R**egion through **K**nowledge) is an international consortium aimed at strengthening preparedness in the Asia-Pacific region through knowledge, under the ASEAN-Pacific Infectious Disease and Response program (APIDDaR). The consortium includes collaborations from globally recognized public health institutions in Australia and the Asia Pacific region.  The program areas focus on public health workforce development and strengthening outbreak detection and management systems and processes, to ultimately increase regional capacity using quantitative methods and modelling.
 
-Based at the Peter Doherty Institute for Infection and Immunity at the University of Melbourne (UoM) in Melbourne, Australia, the SPARK consortium includes:
+Based at the [Peter Doherty Institute for Infection and Immunity](https://www.doherty.edu.au/) at the [University of Melbourne (UoM)](https://www.unimelb.edu.au/) in Melbourne, Australia, the SPARK consortium includes:
 
-* Nossal Institute for Global Health
-* Walter and Eliza Hall Institute (WEHI)
-* Australian National University (ANU)
-* CSIRO (Commonwealth Scientific and Industrial Research Organisations)
-* Mahidol University, Thailand
-* Pasteur Institute, Ho Chi Minh City, Vietnam
-* Oxford University Clinical Research Unit (OUCRU), Indonesia
-
+* [Nossal Institute for Global Health](https://mspgh.unimelb.edu.au/centres-institutes/nossal-institute-for-global-health)
+* [Walter and Eliza Hall Institute (WEHI)](https://www.wehi.edu.au/)
+* [Australian National University (ANU)](https://www.anu.edu.au/)
+* [CSIRO (Commonwealth Scientific and Industrial Research Organisations)](https://www.csiro.au/en/)
+* [Mahidol University, Thailand](https://mahidol.ac.th/)
+* [Pasteur Institute, Ho Chi Minh City, Vietnam](https://pasteur-network.org/en/members/asian-region/ho-chi-minh/)
+* [Oxford University Clinical Research Unit (OUCRU), Indonesia]
+(https://www.oucru.org/location/oucru-indonesia/)
 SPARK is an acronym for Strengthening Preparedness in the Asia-Pacific Region through Knowledge, and builds on the PRISM2 CRE.
 
 Although SPARK is based in Melbourne at the Peter Doherty Institute for Infection and Immunity, our partners and collaborators work globally, with a central focus on Australia and the Asia-Pacific region. 
