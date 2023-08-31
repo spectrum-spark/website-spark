@@ -2,7 +2,7 @@
 title: "Joint International Tropical Medicine Meeting (JITMM) 2023"
 description: "Invitation to the JITMM 2023 in Thailand on 13-15 December"
 author: "Johanna Monk"
-date: 2023-08_31
+date: 2023-08-31
 image: JITMM-2023-logo.jpeg
 categories:
     - Conferences
