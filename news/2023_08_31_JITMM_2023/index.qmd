@@ -3,13 +3,13 @@ title: "Joint International Tropical Medicine Meeting (JITMM) 2023"
 description: "Invitation to the JITMM 2023 in Thailand on 13-15 December"
 author: "Johanna Monk"
 date: 2023-08_31
-image: JTIMM-2023-logo.jpeg
+image: JITMM-2023-logo.jpeg
 categories:
     - Conferences
     - Networking
 ---
 
-![](JTIMM-2023-logo.jpeg) 
+![](JITMM-2023-logo.jpeg) 
 
 This year’s Joint International Tropical Medicine Meeting (JITMM) will be held on 13-15 December 2023 at Eastin Grand Hotel Phayathai, Bangkok, Thailand.
  
@@ -17,8 +17,7 @@ JTIMM 2023 is hosted on a hybrid setting by the Faculty of Tropical Medicine, Ma
  
 This year's theme is “Achieving the SDGs: Human and AI-driven Solutions for Tropical Medicine in a Changing World”. JITMM 2023 will highlight the role and impact of innovative technologies on advances in tropical medicine and sustainable development amidst critical global challenges.
  
-![](JTIMM-2022-group.jpeg)
-_SPARK and SPECTRUM collaborators at JTIMM 2022_
+![SPARK and SPECTRUM collaborators at JTIMM 2022](JITMM-2022-group.jpeg)
 
 For this special event, our Mahidol training partner invites all SPARK and SPECTRUM network members to join JITMM 2023 in Bangkok, in December and looks forward to welcoming you to Bangkok, both in person and virtually!
  
