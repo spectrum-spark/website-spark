@@ -3,7 +3,7 @@ params:
     staff_id: "raja-jurdak"
     staff_list: "`r source('../load_data.R')`"
 title: "Prof. Raja Jurdak"
-image: "../images/staff/raja-jurdak.jpg"
+image: "../images/staff/raja-jurdak.jpeg"
 format:
   html:
     page-layout: full

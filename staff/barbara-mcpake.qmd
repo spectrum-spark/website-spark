@@ -14,6 +14,9 @@ about:
       - icon: envelope
         text: "Email"
         href: "mailto:barbara.mcpake@unimelb.edu.au"
+    - icon: globe
+        text: "University of Melbourne"
+        href: "https://findanexpert.unimelb.edu.au/profile/663526-barbara-mcpake"
 ---
    
 ```{r setup}

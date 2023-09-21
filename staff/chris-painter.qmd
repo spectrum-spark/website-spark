@@ -3,7 +3,7 @@ params:
     staff_id: "chris-painter"
     staff_list: "`r source('../load_data.R')`"
 title: "Dr Chris Painter"
-image: "../images/staff/chris-painter.jpg"
+image: "../images/staff/chris-painter.png"
 format:
   html:
     page-layout: full

@@ -14,6 +14,9 @@ about:
       - icon: envelope
         text: "Email"
         href: "mailto:j.mcvernon@unimelb.edu.au"
+      - icon: globe
+        text: "University of Melbourne"
+        href: "https://findanexpert.unimelb.edu.au/profile/26586-jodie-mcvernon"
       - icon: linkedin
         text: "LinkedIn"
         href: "https://au.linked.in.com/in/jodie-mcvernon-5281b764"

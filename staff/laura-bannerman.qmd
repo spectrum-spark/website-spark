@@ -16,7 +16,7 @@ about:
     links:
       - icon: envelope
         text: "Email"
-        href: "laura.bannerman@unimelb.edu.au"
+        href: "mailto:laura.bannerman@unimelb.edu.au"
       - icon: linkedin
         text: "LinkedIn"
         href: "https://www.linkedin.com/in/laura-bannerman-66aab0108/"

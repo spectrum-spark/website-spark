@@ -1,6 +1,6 @@
 ---
 title: "Prof. Kathryn Glass"
-image: "../images/staff/kathryn-glass.jpg"
+image: "../images/staff/kathryn-glass.jpeg"
 format:
   html:
     page-layout: full
