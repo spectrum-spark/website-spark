@@ -27,8 +27,8 @@ Based at the [Peter Doherty Institute for Infection and Immunity](https://www.do
 * [CSIRO (Commonwealth Scientific and Industrial Research Organisations)](https://www.csiro.au/en/)
 * [Mahidol University, Thailand](https://mahidol.ac.th/)
 * [Pasteur Institute, Ho Chi Minh City, Vietnam](https://pasteur-network.org/en/members/asian-region/ho-chi-minh/)
-* [Oxford University Clinical Research Unit (OUCRU), Indonesia]
-(https://www.oucru.org/location/oucru-indonesia/)
-SPARK is an acronym for Strengthening Preparedness in the Asia-Pacific Region through Knowledge, and builds on the PRISM2 CRE.
+* [Oxford University Clinical Research Unit (OUCRU), Indonesia](https://www.oucru.org/location/oucru-indonesia/)
+
+SPARK is an acronym for Strengthening Preparedness in the Asia-Pacific Region through Knowledge, and builds on the [PRISM2 CRE](https://prism.edu.au/).
 
 Although SPARK is based in Melbourne at the Peter Doherty Institute for Infection and Immunity, our partners and collaborators work globally, with a central focus on Australia and the Asia-Pacific region. 
