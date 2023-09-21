@@ -16,7 +16,7 @@ website:
         href: people.html
       - text: "Resources"
         menu:
-          - text: "Publication"
+          - text: "Publications"
             href: publications.html
           - text: "Projects"
             href: projects.html
