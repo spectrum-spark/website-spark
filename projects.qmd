@@ -6,7 +6,7 @@ format:
         page-layout: full
 ---
 
-SPARK has a number of consortia-associated projects, details of which are here.
+SPARK projects bring together consortia researchers from Australia and the Asia Pacific on modelling and pandemic preparedness issues in infectious diseases.
 
 ```{r setup}
 #| echo: false
